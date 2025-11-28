@@ -1,6 +1,6 @@
 # 🚀 ContentFlow – AI-Powered Landing Page
 
-A modern, responsive, and production-ready **AI product landing page** built using **Next.js 16**, **Tailwind CSS v4**, **TypeScript**, **Lucide React Icons**, and **Shadcn UI**.  
+A modern, responsive, and production-ready **AI product landing page** built using **Next.js**, **Tailwind CSS v4**, **TypeScript**, **Lucide React Icons**, and **Shadcn UI**.  
 Designed with smooth scrolling, beautiful UI components, and a clean layout optimized for both desktop and mobile devices.
 
 ---
